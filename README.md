@@ -1,1 +1,1 @@
-# HK Meta Base
+# Meta-package for Base packages
