@@ -1,1 +1,2 @@
-hk_package( eventDisplay * )
+# no package yet...
+#hk_package( eventDisplay 2.1 )
